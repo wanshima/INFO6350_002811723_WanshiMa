@@ -1,63 +1,67 @@
 [
-    {
-      "question": "What is the capital of France?",
-      "type": "multiple_choice",
-      "options": ["Paris", "Berlin", "London", "Madrid"],
-      "correct": ["Paris"]
-    },
-    {
-      "question": "Which planet is known as the Red Planet?",
-      "type": "multiple_choice",
-      "options": ["Earth", "Mars", "Jupiter", "Venus"],
-      "correct": ["Mars"]
-    },
-    {
-      "question": "The Great Wall of China is visible from space.",
-      "type": "true_false",
-      "options": ["True", "False"],
-      "correct": ["False"]
-    },
-    {
-      "question": "Which animal is known as the King of the Jungle?",
-      "type": "multiple_choice",
-      "options": ["Elephant", "Tiger", "Lion", "Cheetah"],
-      "correct": ["Lion"]
-    },
-    {
-      "question": "Which of these are primary colors?",
-      "type": "multiple_select",
-      "options": ["Red", "Green", "Blue", "Yellow"],
-      "correct": ["Red", "Blue", "Yellow"]
-    },
-    {
-      "question": "Who wrote the play 'Romeo and Juliet'?",
-      "type": "multiple_choice",
-      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
-      "correct": ["William Shakespeare"]
-    },
-    {
-      "question": "How many continents are there on Earth?",
-      "type": "multiple_choice",
-      "options": ["5", "6", "7", "8"],
-      "correct": ["7"]
-    },
-    {
-      "question": "Which of the following are Olympic sports?",
-      "type": "multiple_select",
-      "options": ["Soccer", "Chess", "Swimming", "Basketball"],
-      "correct": ["Soccer", "Swimming", "Basketball"]
-    },
-    {
-      "question": "Which ocean is the largest?",
-      "type": "multiple_choice",
-      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
-      "correct": ["Pacific Ocean"]
-    },
-    {
-      "question": "What is the national flower of Japan?",
-      "type": "multiple_choice",
-      "options": ["Rose", "Cherry Blossom", "Lotus", "Sunflower"],
-      "correct": ["Cherry Blossom"]
-    }
-  ]
-  
+  {
+    "question": "Flutter is developed by Google.",
+    "type": "true_false",
+    "options": ["True", "False"],
+    "correct": ["True"]
+  },
+  {
+    "question": "Which language is used in Flutter?",
+    "type": "multiple_choice",
+    "options": ["Dart", "Java", "Swift", "Python"],
+    "correct": ["Dart"]
+  },
+  {
+    "question": "Select valid Flutter widgets.",
+    "type": "multiple_select",
+    "options": ["Container", "Text", "View", "Column"],
+    "correct": ["Container", "Text", "Column"]
+  },
+  {
+    "question": "What is the command to create a new Flutter project?",
+    "type": "multiple_choice",
+    "options": [
+      "flutter new project",
+      "flutter create <project_name>",
+      "flutter init project",
+      "flutter start project"
+    ],
+    "correct": ["flutter create <project_name>"]
+  },
+  {
+    "question": "What is the file extension for Dart files?",
+    "type": "multiple_choice",
+    "options": [".dart", ".flutter", ".java", ".swift"],
+    "correct": [".dart"]
+  },
+  {
+    "question": "The build method in a Flutter widget returns a widget tree.",
+    "type": "true_false",
+    "options": ["True", "False"],
+    "correct": ["True"]
+  },
+  {
+    "question": "Which widget is used for creating a button in Flutter?",
+    "type": "multiple_choice",
+    "options": ["ElevatedButton", "TextField", "Container", "Row"],
+    "correct": ["ElevatedButton"]
+  },
+  {
+    "question": "Flutter apps run on which platforms?",
+    "type": "multiple_select",
+    "options": ["Android", "iOS", "Windows", "Linux", "Web"],
+    "correct": ["Android", "iOS", "Windows", "Linux", "Web"]
+  },
+  {
+    "question": "Which Flutter widget is used to create a scrollable list?",
+    "type": "multiple_choice",
+    "options": ["ListView", "Column", "Stack", "Container"],
+    "correct": ["ListView"]
+  },
+  {
+    "question": "Which package is commonly used for state management in Flutter?",
+    "type": "multiple_choice",
+    "options": ["provider", "http", "flutter_svg", "dart:core"],
+    "correct": ["provider"]
+  }
+]
