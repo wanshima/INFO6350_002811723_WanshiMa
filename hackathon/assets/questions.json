@@ -1,0 +1,63 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "type": "multiple_choice",
+      "options": ["Paris", "Berlin", "London", "Madrid"],
+      "correct": ["Paris"]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "type": "multiple_choice",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "correct": ["Mars"]
+    },
+    {
+      "question": "The Great Wall of China is visible from space.",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct": ["False"]
+    },
+    {
+      "question": "Which animal is known as the King of the Jungle?",
+      "type": "multiple_choice",
+      "options": ["Elephant", "Tiger", "Lion", "Cheetah"],
+      "correct": ["Lion"]
+    },
+    {
+      "question": "Which of these are primary colors?",
+      "type": "multiple_select",
+      "options": ["Red", "Green", "Blue", "Yellow"],
+      "correct": ["Red", "Blue", "Yellow"]
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "type": "multiple_choice",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "correct": ["William Shakespeare"]
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "type": "multiple_choice",
+      "options": ["5", "6", "7", "8"],
+      "correct": ["7"]
+    },
+    {
+      "question": "Which of the following are Olympic sports?",
+      "type": "multiple_select",
+      "options": ["Soccer", "Chess", "Swimming", "Basketball"],
+      "correct": ["Soccer", "Swimming", "Basketball"]
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "type": "multiple_choice",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+      "correct": ["Pacific Ocean"]
+    },
+    {
+      "question": "What is the national flower of Japan?",
+      "type": "multiple_choice",
+      "options": ["Rose", "Cherry Blossom", "Lotus", "Sunflower"],
+      "correct": ["Cherry Blossom"]
+    }
+  ]
+  
